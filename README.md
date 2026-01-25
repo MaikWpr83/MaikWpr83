@@ -1,27 +1,28 @@
 # 💫 About Me
 
-👋 Hallo, ich bin Maik Wypior!  
-Ich liebe das Coden und bin begeistert von der Programmierung – von meinen Anfängen als Programmierer bis hin zu meiner heutigen Tätigkeit als Frontend-Webentwickler. In dieser Zeit habe ich nicht nur viele Techniken und Tools gelernt, sondern auch die Freude daran entwickelt, Probleme durch kreative Ansätze zu lösen und sauberen, effizienten Code zu schreiben.
+👋Hello, I'm Maik Wypior!  
+I love coding and am passionate about programming—from my early days as a programmer to my current role as a front-end developer. During this time, I have not only learned many techniques and tools, but also developed a passion for solving problems through creative approaches and writing clean, efficient code.
 
-Ich erlerne gerne neue Technologien und halte mich ständig auf dem Laufenden, um immer das Beste aus meinen Projekten herauszuholen. Ob alleine oder im Team, ich freue mich über jede Gelegenheit, etwas Neues zu schaffen und meine Skills zu erweitern.
+I enjoy learning new technologies and constantly keep myself up to date so that I can always get the most out of my projects. Whether working alone or in a team, I welcome every opportunity to create something new and expand my skills.
 
-## 🚀 Projekte
+## 🚀 Projects
 
-Überzeugen Sie sich selbst von einigen meiner Projekte.
+See some of my projects for yourself.
 
-### 📋 Task Management Web-App
+### 📋 Task Management Web App
 
-Eine Anwendung zur Organisation und Verwaltung von Aufgaben für mehrere Nutzer. Enthält eine interaktive Enzyklopädie für die Visualisierung von Charakterdaten, die REST-APIs und Chart.js verwendet.
+An application for organizing and managing tasks for multiple users. Includes an interactive encyclopedia for visualizing character data,
+using REST APIs and Chart.js.
 
-### 🕹️ Browser-Spiel
+### 🕹️ Browser game
 
-Ein webbasiertes Spiel mit objektorientierter Struktur und Mehrfachvererbung, das in einer browserbasierten Umgebung läuft.
+A web-based game with an object-oriented structure and multiple inheritance that runs in a browser-based environment.
 
 ## 🌐 Portfolio
 
 [🌍 maik-wypior.de](https://maik-wypior.de/portfolio/)
 
-Ich freue mich immer über den Austausch mit anderen Entwicklern. Schreib mir einfach, wenn du Fragen zu meinen Projekten hast oder an ähnlichen Themen arbeitest. Vielleicht ergibt sich die Chance, an innovativen Ideen gemeinsam zu arbeiten!
+I always enjoy exchanging ideas with other developers. Just write to me if you have any questions about my projects or are working on similar topics. Maybe we'll have the chance to work on innovative ideas together!
 
 ## 🌐 Socials
 
@@ -42,4 +43,4 @@ Ich freue mich immer über den Austausch mit anderen Entwicklern. Schreib mir ei
 
 ---
 
-Ich freue mich darauf, meine Leidenschaft für Code mit anderen zu teilen und bin gespannt auf neue Herausforderungen!
+I look forward to sharing my passion for code with others and am excited to take on new challenges!
