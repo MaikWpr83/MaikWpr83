@@ -1,7 +1,7 @@
 # 💫 About Me
 
 👋 Hallo, ich bin Maik Wypior!  
-Ich liebe das Coden und bin begeistert von der Programmierung – von meinen Anfängen als CNC-Programmierer bis hin zu meiner heutigen Tätigkeit als Frontend-Webentwickler. In dieser Zeit habe ich nicht nur viele Techniken und Tools gelernt, sondern auch die Freude daran entwickelt, Probleme durch kreative Ansätze zu lösen und sauberen, effizienten Code zu schreiben.
+Ich liebe das Coden und bin begeistert von der Programmierung – von meinen Anfängen als Programmierer bis hin zu meiner heutigen Tätigkeit als Frontend-Webentwickler. In dieser Zeit habe ich nicht nur viele Techniken und Tools gelernt, sondern auch die Freude daran entwickelt, Probleme durch kreative Ansätze zu lösen und sauberen, effizienten Code zu schreiben.
 
 Ich erlerne gerne neue Technologien und halte mich ständig auf dem Laufenden, um immer das Beste aus meinen Projekten herauszuholen. Ob alleine oder im Team, ich freue mich über jede Gelegenheit, etwas Neues zu schaffen und meine Skills zu erweitern.
 
